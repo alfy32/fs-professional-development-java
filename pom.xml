@@ -18,6 +18,7 @@
     <module>static-method</module>
     <module>overloaded-constructor</module>
     <module>accessors</module>
+    <module>virtual-method</module>
   </modules>
 
   <properties>
