@@ -10,6 +10,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>chars-in-string-array</module>
+    <module>sort-lines</module>
   </modules>
 
   <properties>
