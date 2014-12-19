@@ -19,6 +19,7 @@
     <module>overloaded-constructor</module>
     <module>accessors</module>
     <module>virtual-method</module>
+    <module>instanceof</module>
   </modules>
 
   <properties>
