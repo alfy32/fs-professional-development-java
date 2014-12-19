@@ -16,6 +16,7 @@
     <module>composition</module>
     <module>inheritance</module>
     <module>static-method</module>
+    <module>overloaded-constructor</module>
   </modules>
 
   <properties>
