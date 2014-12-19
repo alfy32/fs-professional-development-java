@@ -25,7 +25,7 @@ public class Main {
 
     BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(new File("out.txt")));
 
-    for (String writeLine : lines) {
+    for (String writeLine : lines.descendingSet()) {
       bufferedWriter.write(writeLine);
       bufferedWriter.newLine();
     }

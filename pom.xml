@@ -11,6 +11,7 @@
   <modules>
     <module>chars-in-string-array</module>
     <module>sort-lines</module>
+    <module>sort-lines-desc</module>
   </modules>
 
   <properties>
